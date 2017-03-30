@@ -1,0 +1,13 @@
+body {
+  background-color: #aaf7af;
+  font-family:sans-serif ; /*Changes font of entire website to sans-serif*/
+  margin:20px 10% 0px 50px; /*top, right, bottom, left*/
+  color: #443a8c;
+}
+
+h1 {
+  color: #ffffff;
+  text-align: center; /*centers the h1*/
+  Text-shadow: 1px 0 0 #0000be, 0-1px 0 #0000be, 0 1px 0 #0000be, -1px 0 0 #0000be; /*adding a shadow to my h1*/
+  font-size: 40px;
+}
